@@ -1,0 +1,11 @@
+C:\Users\juera\Desktop\服务器\SZWNet\SZWNet\obj\Debug\SZWNet.csproj.CoreCompileInputs.cache
+C:\Users\juera\Desktop\服务器\SZWNet\SZWNet\bin\Debug\SZWNet.exe.config
+C:\Users\juera\Desktop\服务器\SZWNet\SZWNet\bin\Debug\SZWNet.exe
+C:\Users\juera\Desktop\服务器\SZWNet\SZWNet\bin\Debug\SZWNet.pdb
+C:\Users\juera\Desktop\服务器\SZWNet\SZWNet\obj\Debug\SZWNet.pdb
+C:\Users\juera\Desktop\服务器\SZWNet\SZWNet\bin\Debug\Newtonsoft.Json.dll
+C:\Users\juera\Desktop\服务器\SZWNet\SZWNet\obj\Debug\SZWNet.csproj.CopyComplete
+C:\Users\juera\Desktop\程序\这就是江湖\Assets\Plugins\SZWNet.pdb
+C:\Users\juera\Desktop\程序\这就是江湖\Assets\Plugins\SZWNet.dll.config
+C:\Users\juera\Desktop\程序\这就是江湖\Assets\Plugins\SZWNet.dll
+C:\Users\juera\Desktop\服务器\SZWNet\SZWNet\obj\Debug\SZWNet.exe
